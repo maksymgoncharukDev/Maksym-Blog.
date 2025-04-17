@@ -1,6 +1,7 @@
 https://maksym-amazing-blog.onrender.com/
 
-Flask Blog App 📝
+Flask Blog App 
+
 A fully functional Flask-based blog application featuring:
 
 User registration and login
@@ -17,7 +18,7 @@ Contact form with email functionality (via SMTP)
 
 SQLAlchemy ORM and Bootstrap 5 for UI styling
 
-⚙️ Tech Stack
+ Tech Stack
 Python + Flask
 
 Flask-Login
